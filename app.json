@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "jogo-dados",
-    "slug": "jogo-dados",
+    "name": "jogo-dados-860050",
+    "slug": "jogo-dados-860050",
+    "owner": "anacsilvabrs-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +44,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "5c6d9468-3e4b-47aa-b71d-9d5a384fb98d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5c6d9468-3e4b-47aa-b71d-9d5a384fb98d"
     }
   }
 }
